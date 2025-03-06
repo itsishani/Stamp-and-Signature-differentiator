@@ -1,0 +1,1 @@
+# Stamp-and-Signature-differentiator
